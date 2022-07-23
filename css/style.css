@@ -1,0 +1,16 @@
+h1 {
+    color: green;
+    background-color: yellow;
+    font-size: 24px;
+    margin :20px;
+    padding: 30 40;
+    border: solid 20px brown;
+}
+p {
+    color: red;
+    background-color: skyblue;
+    font-size: 14px;
+    margin :20px;
+    padding: 30 40;
+    border: dotted 20px green;
+}
